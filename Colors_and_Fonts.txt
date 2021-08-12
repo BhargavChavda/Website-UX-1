@@ -1,0 +1,14 @@
+Colors
+-------
+
+#223549
+#EC663D
+#6A7EDA
+#A8A8B6
+#FDF1EE
+
+
+Fonts
+-----
+1 - Bebas Neue
+2 - Open Sans
